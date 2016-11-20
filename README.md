@@ -11,7 +11,10 @@ In less than 24 hours, without getting much sleep but still having great FUN :)
 Setting up the P2PKit API which uses new Bluetooth technology to communicate the relative position, taking a picture which would allows us to get the correct information from Microsoft's cognitive API.
 
 # Accomplishments that we're proud of
-We did it!
+
+We manage to learn how to use the Microsoft and p2p api. The first one was used to recognise profile details and second one to transfer the data. 
+
+The final product consists of a web application to register ( available on mobile and pc ) and an Android application to search for specific tags. We are proud of the deployement of all this technology.
 
 # What we learned
 Teamwork, working with new APIs, new technology.
