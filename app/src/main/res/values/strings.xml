@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CloseBy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_one">Hello blank fragment ONE</string>
+    <string name="hello_blank_fragment_two">Hello blank fragment TWO</string>
+    <string name="api_key">6248b5c13c924d28a5ccd0c5012ae0cb</string>
+    <string name="about_us">With CloseBy you will never miss an opportunity to meet with people at a specific event. Simply enter a description of yourself and the people you want to meet using text-tags. You will get a notification whenever both of you are close.\n\nThis app requires no network, simply turn Bluetooth and/or WiFi.\n\n
+<b><i>Support</i></b>:\n\n
+        Arnau.bago\n
+        Christabella\n
+        Ajay\n
+Nathan</string>
+</resources>
